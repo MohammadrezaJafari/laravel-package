@@ -1,7 +1,11 @@
 {
-  "author": "MohammadrezaJafari",
-  "name": "module-content",
-  "version": "0.0.0",
-  "dependencies": {},
-  "devDependencies": {}
+  "packages": [
+    {
+      "author": "MohammadrezaJafari",
+      "name": "module-content",
+      "version": "0.0.0",
+      "dependencies": {},
+      "devDependencies": {}
+    }
+  ]
 }
